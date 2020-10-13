@@ -40,10 +40,10 @@ end
 
 
 def play(board)
-
-9.times do 
+  counter = 0 
+  while counter < 9 
   turn(board)
-end 
+  end 
 end 
 
 
